@@ -1,5 +1,14 @@
 # Telegram Mini App With Stars Payments
 
+<div align="center">
+  <img src="https://nikandr.com/og-image.jpg" alt="Nikandr - Premium Telegram Development Resources" width="600"/>
+  
+  🚀 **Looking to master Telegram Mini App development?**  
+  Visit [nikandr.com](https://nikandr.com) for the best premium content and courses for Telegram developers.
+</div>
+
+---
+
 A complete full-stack example of a modern Telegram Mini App for selling digital products using Telegram Stars payments. Built with Next.js 15, TypeScript, Tailwind CSS, and Telegram Bot API, this app includes secure invoice generation, purchase history, secret content access after purchase, and refund processing via a Python companion bot. Ideal for Web3 developers, Telegram bot creators, and digital entrepreneurs looking to monetize through Telegram's payment ecosystem.
 
 > **Note:** This application is designed to work exclusively within the Telegram ecosystem as a Telegram Mini App. It should be accessed only through Telegram and not directly via a web browser.
@@ -90,12 +99,15 @@ As this is a Telegram Mini App, it must be deployed and accessed through Telegra
 
 ## Author
 ### Nikandr Surkov
-- 🌐 Website: [nikandr.com](https://nikandr.com)
-- 📺 YouTube: [@NikandrSurkov](https://www.youtube.com/@NikandrSurkov)
-- 📱 Telegram: [@nikandr_s](https://t.me/nikandr_s)
-- 📢 Telegram Channel: [Nikandr's Apps](https://t.me/+hL2jdmRkhf9jZjQy)
-- 📰 Clicker Game News: [Clicker Game News](https://t.me/clicker_game_news)
-- 💻 GitHub: [nikandr-surkov](https://github.com/nikandr-surkov)
-- 🐦 Twitter: [@NikandrSurkov](https://x.com/NikandrSurkov)
-- 💼 LinkedIn: [Nikandr Surkov](https://www.linkedin.com/in/nikandr-surkov/)
-- ✍️ Medium: [@NikandrSurkov](https://medium.com/@NikandrSurkov)
+- 🌐 Website: https://nikandr.com
+- 📺 YouTube: https://www.youtube.com/@NikandrSurkov
+- 📢 Telegram Channel: https://t.me/NikandrApps
+- 📱 Telegram: https://t.me/nikandr_s
+- 💻 GitHub: https://github.com/nikandr-surkov
+- 🐦 Twitter: https://x.com/NikandrSurkov
+- 💼 LinkedIn: https://www.linkedin.com/in/nikandr-surkov/
+- ✍️ Medium: https://medium.com/@NikandrSurkov
+
+---
+
+Built with ❤️ for the Telegram developer community
